@@ -1,14 +1,20 @@
 ---
 name: Broken website
 about: Creates a broken website report about Dark Reader
+<<<<<<< HEAD
 title: "[Broken Website] Insert title here"
+=======
+title: "[Broken Website] Replace with title"
+>>>>>>> master
 labels: Broken Website
 assignees: ''
 
 ---
 
-[//]: #   ⚠⚠ Do not delete this issue template! ⚠⚠ 
-[//]: #   Issues that do not use the issue template/don't fill out the essential information are likely to be ignored and closed. 
+<!-- 
+  ⚠⚠ Do not delete this issue template! ⚠⚠ 
+  Issues that do not use the issue template/don't fill out the essential information are likely to be ignored and closed. 
+-->
 
 <!--
 Thank you for taking the time to report a broken website.
@@ -23,7 +29,6 @@ Please make sure there is no existing issue with this broken website.
 ## How to Reproduce
 <!-- We need to know how you encountered the bug to properly troubleshoot the issue. -->
 <!--
-  Steps to reproduce the behavior:
   An example of this is:
   - Go to x site
   - Hover over x button
@@ -39,15 +44,14 @@ Please make sure there is no existing issue with this broken website.
 ## Screenshots
 <!-- If applicable, add screenshots to help explain your problem. -->
 
+## System Information
 <!--
-Please add a version of the browser you are using. 
-If you don't know how to get your browser/Dark Reader version please search it up online.
+  Please add a version of the browser you are using. 
+  If you don't know how to get your browser/Dark Reader version please search it up online.
 -->
 
-## System Information
-
 - OS: <!-- [e.g. Windows, MacOS, Linux] -->
-- Browser: <!-- [e.g. Chrome, Safari] -->
+- Browser: <!-- [e.g. Chrome 84, Safari 13] -->
 - Dark Reader Version: <!-- [e.g. 4.9.26] -->
 
 ## Additional context
